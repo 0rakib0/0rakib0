@@ -4,7 +4,12 @@
 <img align='left' width='47%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=0rakib0&layout=compact'/>
 
 
+#  I Like To work with this technologies
 
-<img align='left' width='10%' height='50px' src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB'/>
+<img align='left' width='10%' src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB'/> 
+
+<img align='left' width='10%' src='https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white'/>
+
+
 
 
