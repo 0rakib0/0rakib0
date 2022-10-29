@@ -2,7 +2,7 @@
 
 <img align='left' width='48%' src='https://github-readme-stats.vercel.app/api?username=0rakib0&show_icons=true&theme=radical'/>
 <img align='left' width='48%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=0rakib0&layout=compact'/>
-(<-- two spaces)
+
 
 #
 #  **I Like To work with this technologies**
