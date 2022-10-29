@@ -11,7 +11,10 @@
  
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](hassanrakibul926@gmail.com)
 ![](https://komarev.com/ghpvc/?username=yeazin&color=brightgreen)
-<h4>Hi I am Yeasin 💇‍♂️ , a passoniate Fullstack deveolper from Bangladesh.I am a Self-taught software Developer. I have a profound knowledge in Django, Javascript & Rest Framework. I love to work with new Technologies and like to learn new things everytime .<h4>
+<h4>I am Rakib, a  self learner web developer and designer.programming has always been my passion.I have been 
+doing it for years and I enjoy what I do.
+I'll try to give my best and want to get best result!
+Thank you and Enjoying!<h4>
  <table align="center" >
    <tr>
      <td> 
