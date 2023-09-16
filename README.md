@@ -9,8 +9,7 @@
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
  
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](hassanrakibul926@gmail.com)
-![](https://komarev.com/ghpvc/?username=yeazin&color=brightgreen)
+
 <h4>I am Rakib, a  self learner web developer and designer.programming has always been my passion.I have been 
 doing it for years and I enjoy what I do.
 I'll try to give my best and want to get best result!
