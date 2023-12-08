@@ -14,14 +14,7 @@
 doing it for years and I enjoy what I do.
 I'll try to give my best and want to get best result!
 Thank you and Enjoying!<h4>
- <table align="center" >
-   <tr>
-     <td> 
-  
-![Github stats](https://github-readme-stats.vercel.app/api?username=0rakib0&theme=radical&show_icons=true&count_private=true&hide=issues) </td>
-     <td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeazin&theme=radical&layout=compact)](https://github.com/yeazin) </td>
-   </tr>
-  </table>
+ 
   
   
 <h2> Technologies I like to work with ❤️</h2>
