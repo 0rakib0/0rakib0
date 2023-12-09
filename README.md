@@ -14,8 +14,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=0rakib0&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0rakib0&theme=radical&layout=compact)](https://github.com/0rakib0)
-
   
 <h2> Technologies I like to work with ❤️</h2>
  <p align="center">
@@ -47,8 +45,21 @@
   </a>
 </p>
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=0rakib0&bg_color=nord&color=708090&line=24292e&point=24292e&area=true&hide_border=true) 
- 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=0rakib0&show_icons=true&count_private=true)
+
+
+
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/darcula/0-profile-details.svg)](https://github.com/0rakib0/github-profile-summary-cards)
+| [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/darcula/1-repos-per-language.svg)](https://github.com/0rakib0/github-profile-summary-cards) | [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/darcula/2-most-commit-language.svg)](https://github.com/0rakib0/github-profile-summary-cards) |
+| --- | --- |
+| [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/darcula/3-stats.svg)](https://github.com/0rakib0/github-profile-summary-cards) | [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/darcula/4-productive-time.svg)](https://github.com/0rakib0/github-profile-summary-cards)
+
+
+
+
+
+
+
 
   
 <!--
