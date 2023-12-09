@@ -1,13 +1,12 @@
+![The San Juan Mountains are beautiful!](https://e0.pxfuel.com/wallpapers/149/259/desktop-wallpaper-web-development.jpg "San Juan Mountains")
+
 
 <h1 align="center">Hello programmers!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 <h3 align ="center"> <strong> let's make somethink good </strong> </h3>
 <p >
-<a href="https://github.com/0rakib0">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
-</a>
-<a href="https://www.linkedin.com/in/rakibul-hasan-46112119b/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+
+
+
  
 
 <h4>I am Rakib, a  self learner web developer and designer.programming has always been my passion.I have been 
