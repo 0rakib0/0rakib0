@@ -45,8 +45,6 @@
   </a>
 </p>
  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=0rakib0&show_icons=true&count_private=true)
-
 
 
 [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/darcula/0-profile-details.svg)](https://github.com/0rakib0/github-profile-summary-cards)
