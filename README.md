@@ -11,7 +11,9 @@
 <h4>Hello, I'm Rakibul Hasan, a MEAN Stack developer passionate about crafting innovative solutions. From my hands-on experience in web development, I enjoy translating complex problems into efficient code and thrive on the excitement of learning and implementing new technologies<h4>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=0rakib0&theme=radical&hide_border=true)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=0rakib0&theme=radical&hide_border=true" alt="GitHub Streak">
+</p>
 
 
   
